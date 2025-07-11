@@ -26,8 +26,8 @@ This is a modern React app bootstrapped with **Vite** that showcases:
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/react-redux-lazy-app.git
-cd react-redux-lazy-app
+git clone https://github.com/yourusername/react-featured.git
+cd react-featured
 
 # Install dependencies
 npm install
