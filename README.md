@@ -2,15 +2,15 @@
 
 This is a modern React app bootstrapped with **Vite** that showcases:
 
-- ✅ Lazy loading with `React.lazy` and `<Suspense>`
-- ✅ Routing with `react-router-dom`
-- ✅ State management using **Redux Toolkit**
-- ✅ API fetching using **Axios** + `createAsyncThunk`
-- ✅ Simple structure, easy to scale
+- Lazy loading with `React.lazy` and `<Suspense>`
+- Routing with `react-router-dom`
+- State management using **Redux Toolkit**
+- API fetching using **Axios** + `createAsyncThunk`
+- Simple structure, easy to scale
 
 ---
 
-## 🏗 Tech Stack
+## Tech Stack
 
 | Tool             | Purpose                   |
 | ---------------- | ------------------------- |
@@ -22,11 +22,11 @@ This is a modern React app bootstrapped with **Vite** that showcases:
 
 ---
 
-## 🛠️ Installation
+## Installation
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/react-featured.git
+git clone https://github.com/alisha2806/react-featured.git
 cd react-featured
 
 # Install dependencies
